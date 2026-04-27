@@ -5,6 +5,10 @@
       "Title": "Lord of War",
       "Released": "2005-09-15",
       "Runtime": 122,
+      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 99,
+      "imdbRating": 9.9,
       "Genres": [
         "Crime",
         "Drama"
@@ -19,11 +23,7 @@
         "Nicolas Cage",
         "Ethan Hawke",
         "Jared Leto"
-      ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
+      ]
     },
     "tt0167260": {
       "imdbID": "tt0167260",
@@ -53,32 +53,32 @@
       "Metascore": 94,
       "imdbRating": 9
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt0133093": {
+      "imdbID": "tt0133093",
+      "Title": "The Matrix",
+      "Released": "1999-03-30",
+      "Runtime": 136,
       "Genres": [
-        "Adventure",
-        "Drama",
-        "Thriller"
+        "Action",
+        "Sci-Fi"
       ],
       "Directors": [
-        "Peter Brook"
+        "Lana Wachowski",
+        "Lilly Wachowski"
       ],
       "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "Lilly Wachowski",
+        "Lana Wachowski"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
+      "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Metascore": "73",
+      "imdbRating": "8.7"
     }
   },
   "jane": {

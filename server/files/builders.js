@@ -128,7 +128,9 @@ export class MovieBuilder extends ElementBuilder {
       .append(new ElementBuilder("h2").pluralizedText("Writer", movie.Writers))
       .append(new ListBuilder().items(movie.Writers))
       .append(new ElementBuilder("h2").pluralizedText("Actor", movie.Actors))
-      .append(new ListBuilder().items(movie.Actors));
+      .append(new ListBuilder().items(movie.Actors))
+      .append(new ElementBuilder("h3").text("Metascore: " + movie.Metascore))
+      .append(new ElementBuilder("h3").text("IMDb Rating: " + movie.imdbRating));
   }
 }
 
